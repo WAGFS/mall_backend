@@ -1,0 +1,12 @@
+{
+  // "extends": "eslint-config-egg",
+  "rules": {
+    "no-console":"off"
+  },
+  "parserOptions": {
+    "ecmaVersion": 6,
+    "ecmaFeatures": {
+      "experimentalObjectRestSpread": true
+    }
+ }
+}
